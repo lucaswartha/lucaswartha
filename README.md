@@ -1,7 +1,5 @@
 ### Hi there, I'm Lucas Machado - <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-I'm studying to be a Web Developer.
-
 #### Connect with me:
 [<img align="left" alt="LinkedIn" height="20px" src="./socialmedia/linkedin.png" />][linkedin]
 [<img align="left" alt="Twitter" height="20px" src="./socialmedia/twitter.png" />][twitter]
