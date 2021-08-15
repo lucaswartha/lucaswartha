@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Machado - <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Lucas Machado - <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
 #### Connect with me:
 [<img align="left" alt="LinkedIn" height="20px" src="./socialmedia/linkedin.png" />][linkedin]
